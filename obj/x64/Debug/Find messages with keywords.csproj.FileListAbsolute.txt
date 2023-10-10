@@ -1,0 +1,38 @@
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\x64\Debug\Find messages with keywords.exe.config
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\x64\Debug\Find messages with keywords.exe
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\x64\Debug\Find messages with keywords.pdb
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\x64\Debug\Newtonsoft.Json.dll
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\x64\Debug\Newtonsoft.Json.xml
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\x64\Debug\Telegram.Td.xml
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\x64\Debug\Find messages with keywords.csproj.SuggestedBindingRedirects.cache
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\x64\Debug\Authorization.g.cs
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\x64\Debug\MainWindow.g.cs
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\x64\Debug\App.g.cs
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\x64\Debug\Find messages with keywords_MarkupCompile.cache
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\x64\Debug\Find messages with keywords_MarkupCompile.lref
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\x64\Debug\Authorization.baml
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\x64\Debug\MainWindow.baml
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\x64\Debug\Find messages with keywords.g.resources
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\x64\Debug\Find_messages_with_keywords.Properties.Resources.resources
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\x64\Debug\Find messages with keywords.csproj.GenerateResource.cache
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\x64\Debug\Find messages with keywords.csproj.CoreCompileInputs.cache
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\x64\Debug\Find messages with keywords.csproj.CopyComplete
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\x64\Debug\Find messages with keywords.exe
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\x64\Debug\Find messages with keywords.pdb
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\x64\Debug\Find messages with keywords.csproj.AssemblyReference.cache
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\x64\Debug\zlibd1.dll
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\x64\Debug\libcrypto-3-x64.dll
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\x64\Debug\libssl-3-x64.dll
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\x64\Debug\Find messages with keywords_Content.g.cs
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\x64\Debug\Find_chats.g.cs
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\x64\Debug\Find_chats.baml
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\x64\Debug\EPPlus.dll
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\x64\Debug\EPPlus.Interfaces.dll
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\x64\Debug\EPPlus.System.Drawing.dll
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\x64\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\x64\Debug\EPPlus.xml
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\x64\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\x64\Debug\Telegram.Td.pdb
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\x64\Debug\About_program.g.cs
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\x64\Debug\About_program.baml
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\x64\Debug\Telegram.Td.dll

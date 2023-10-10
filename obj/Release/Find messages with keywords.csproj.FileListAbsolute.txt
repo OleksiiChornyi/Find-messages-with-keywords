@@ -1,0 +1,31 @@
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\Release\Find messages with keywords.exe.config
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\Release\Find messages with keywords.exe
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\Release\Find messages with keywords.pdb
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\Release\EPPlus.dll
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\Release\EPPlus.Interfaces.dll
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\Release\EPPlus.System.Drawing.dll
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\Release\Newtonsoft.Json.dll
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\Release\Telegram.Td.dll
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\Release\EPPlus.xml
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\Release\Newtonsoft.Json.xml
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\Release\Telegram.Td.pdb
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\Release\Telegram.Td.xml
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Release\Find messages with keywords.csproj.SuggestedBindingRedirects.cache
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Release\Authorization.g.cs
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Release\Find_chats.g.cs
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Release\MainWindow.g.cs
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Release\App.g.cs
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Release\Find messages with keywords_MarkupCompile.cache
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Release\Find messages with keywords_MarkupCompile.lref
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Release\Authorization.baml
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Release\Find_chats.baml
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Release\MainWindow.baml
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Release\Find messages with keywords.g.resources
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Release\Find_messages_with_keywords.Properties.Resources.resources
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Release\Find messages with keywords.csproj.GenerateResource.cache
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Release\Find messages with keywords.csproj.CoreCompileInputs.cache
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Release\Find messages with keywords.csproj.CopyComplete
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Release\Find messages with keywords.exe
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Release\Find messages with keywords.pdb

@@ -1,0 +1,24 @@
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\Debug\Find messages with keywords.exe.config
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\Debug\Find messages with keywords.exe
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\Debug\Find messages with keywords.pdb
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\Debug\Newtonsoft.Json.dll
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\Debug\Telegram.Td.dll
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\Debug\Newtonsoft.Json.xml
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\Debug\Telegram.Td.pdb
+D:\work\From_Dmity\Andrii\Find messages with keywords\bin\Debug\Telegram.Td.xml
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Debug\Find messages with keywords.csproj.AssemblyReference.cache
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Debug\Find messages with keywords.csproj.SuggestedBindingRedirects.cache
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Debug\Authorization.g.cs
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Debug\MainWindow.g.cs
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Debug\App.g.cs
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Debug\Find messages with keywords_MarkupCompile.cache
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Debug\Find messages with keywords_MarkupCompile.lref
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Debug\Authorization.baml
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Debug\MainWindow.baml
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Debug\Find messages with keywords.g.resources
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Debug\Find_messages_with_keywords.Properties.Resources.resources
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Debug\Find messages with keywords.csproj.GenerateResource.cache
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Debug\Find messages with keywords.csproj.CoreCompileInputs.cache
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Debug\Find messages with keywords.csproj.CopyComplete
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Debug\Find messages with keywords.exe
+D:\work\From_Dmity\Andrii\Find messages with keywords\obj\Debug\Find messages with keywords.pdb
